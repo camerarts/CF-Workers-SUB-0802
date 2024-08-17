@@ -55,6 +55,8 @@ vless://c1978266-958c-4aa3-ba34-7eacac75aca1@www.visa.com:443?encryption=none&se
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.194.133:443?encryption=none&security=tls&sni=www.Arizona.edu&allowInsecure=1&type=ws&host=fraud.chase&path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048#%F0%9F%86%94v2rayng_vpnrog%20%F0%9F%94%92%20VL-WS-N%2FA%20%F0%9F%87%BA%F0%9F%87%B8%20US%202ms
 vless://177dfbdf-8337-40ea-8791-906924b9fb2f@67.205.152.244:12345?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=0hue6xKKmwuEefA0eMXQszxESSoagq2kqLB_gPrRc3s&sid=c57d2373&allowInsecure=1&type=http&path=%2F#%F0%9F%86%94vmessprotocol%20%F0%9F%94%92%20VL-HTTP-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2028ms
 vless://177dfbdf-8337-40ea-8791-906924b9fb2f@67.205.152.244:12345?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=0hue6xKKmwuEefA0eMXQszxESSoagq2kqLB_gPrRc3s&sid=c57d2373&allowInsecure=1&type=http&path=%2F#%F0%9F%86%94vmessprotocol%20%F0%9F%94%92%20VL-HTTP-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2028ms
+vless://788a29c6-15d5-4501-b696-43e1850614a3@42.98.167.229:12345?encryption=none&security=tls&sni=cmliu.5712360.xyz&alpn=h3&fp=random&allowInsecure=1&type=ws&host=cmliu.5712360.xyz&path=%2F%3Fproxyip%3Dproxyip.aliyun.fxxk.dedyn.io#HK
+vless://788a29c6-15d5-4501-b696-43e1850614a3@dns.5712360.xyz:443?encryption=none&security=tls&sni=cmliu.5712360.xyz&alpn=h3&fp=random&allowInsecure=1&type=ws&host=cmliu.5712360.xyz&path=%2F%3Fproxyip%3Dproxyip.oracle.fxxk.dedyn.io#GB
 
 
 `
