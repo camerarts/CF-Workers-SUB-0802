@@ -14,6 +14,8 @@ let cacheTTL = 24 ;//小时，缓存时长
 
 //节点链接 + 订阅链接
 let MainData = `
+trojan://auto@42.98.167.229:12345?security=tls&sni=tg.cmliussss.us.kg&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=tg.cmliussss.us.kg&path=%2F%3Fed%3D2560#HKHKHKHKHKHKHKHKHKHK88888888
+
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTXHUwMDNFXHU1MkEwXHU2MkZGXHU1OTI3IFx1NTkxQVx1NEYyNlx1NTkxQSIsDQogICJhZGQiOiAiNjkuODQuMTgyLjE2NSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImU4Yjk5Y2JlLTllYmQtNGEyMC1hNDk3LTM4ZjRiMjlmMmM5OC44M2IxMTc4Mi1lY2FlLTQxMWYtOTBjMy0yYTAxYmIzMzI2MGEuZ2xlZXplLmNvbSIsDQogICJwYXRoIjogIi9vYmRpaS5jZmQ6NDQzL2xpbmt3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJlOGI5OWNiZS05ZWJkLTRhMjAtYTQ5Ny0zOGY0YjI5ZjJjOTguODNiMTE3ODItZWNhZS00MTFmLTkwYzMtMmEwMWJiMzMyNjBhLmdsZWV6ZS5jb20iLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 vless://3ca22e08-79c0-4fff-9660-574e40e76103@99.83.209.185:443?encryption=none&security=tls&sni=net.my-tesla.asia&allowInsecure=1&type=ws&host=net.my-tesla.asia&path=%2Ffgsg66f#Goumai-107.172.94.14-45k
 vless://58406e25-0f89-4f3b-8f89-93537641f126@dns.5712360.xyz:2096?encryption=none&security=tls&sni=547c921f-c9b1-4d57-bb25-ff5c79749783.a09c5a67-316e-45c6-a051-e6066737fd47.theworkpc.com&allowInsecure=1&type=ws&host=547c921f-c9b1-4d57-bb25-ff5c79749783.a09c5a67-316e-45c6-a051-e6066737fd47.theworkpc.com&path=%2F42ab2ad7.v2raypro1-bvc.pages.dev%2F%3Fproxyip%3Doracle.gitgoogle.com#%E8%81%94%E9%80%9A%F0%9F%8C%90%E9%80%9A%E7%9F%A5%F0%9F%8C%90%E9%A2%91%E9%81%93%E2%84%A2%EF%B8%8F%E2%84%A2%EF%B8%8F%E2%84%A2%EF%B8%8F%EF%BC%9A15k
