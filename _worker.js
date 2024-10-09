@@ -16,6 +16,7 @@ let cacheTTL = 24 ;//小时，缓存时长
 let MainData = `
 trojan://auto@42.98.167.229:12345?security=tls&sni=tg.cmliussss.us.kg&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=tg.cmliussss.us.kg&path=%2F%3Fed%3D2560#HKHKHKHKHKHKHKHKHKHK88888888
 trojan://auto@104.19.63.152:443?security=tls&sni=tg.cmliussss.us.kg&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=tg.cmliussss.us.kg&path=%2F%3Fed%3D2560#HKHKHKHKHKHKHKHKHKHK88888888-clone
+trojan://auto@104.19.63.152:443?security=tls&sni=tg.cmliussss.us.kg&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=tg.cmliussss.us.kg&path=%2F%3Fed%3D2560#HKHKHKH-60k-clone
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTXHUwMDNFXHU1MkEwXHU2MkZGXHU1OTI3IFx1NTkxQVx1NEYyNlx1NTkxQSIsDQogICJhZGQiOiAiNjkuODQuMTgyLjE2NSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImU4Yjk5Y2JlLTllYmQtNGEyMC1hNDk3LTM4ZjRiMjlmMmM5OC44M2IxMTc4Mi1lY2FlLTQxMWYtOTBjMy0yYTAxYmIzMzI2MGEuZ2xlZXplLmNvbSIsDQogICJwYXRoIjogIi9vYmRpaS5jZmQ6NDQzL2xpbmt3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJlOGI5OWNiZS05ZWJkLTRhMjAtYTQ5Ny0zOGY0YjI5ZjJjOTguODNiMTE3ODItZWNhZS00MTFmLTkwYzMtMmEwMWJiMzMyNjBhLmdsZWV6ZS5jb20iLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 vless://3ca22e08-79c0-4fff-9660-574e40e76103@99.83.209.185:443?encryption=none&security=tls&sni=net.my-tesla.asia&allowInsecure=1&type=ws&host=net.my-tesla.asia&path=%2Ffgsg66f#Goumai-107.172.94.14-45k
